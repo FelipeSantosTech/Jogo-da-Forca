@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string.h>
 using namespace std;
-
+//alterado
 void tiraSpace(char *palavraSecreta, char *palavraSemEspaco); //line 23
 void upperCase(char *palavraSecreta);                         //line 44
 void tela(char *palavraDescoberta, char *dica);
